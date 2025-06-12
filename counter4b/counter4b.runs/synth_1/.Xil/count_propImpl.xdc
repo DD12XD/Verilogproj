@@ -1,0 +1,13 @@
+set_property SRC_FILE_INFO {cfile:C:/Users/debar/counter4/counter4.srcs/constrs_1/new/constraint.xdc rfile:../../../counter4.srcs/constrs_1/new/constraint.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:3 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN Y9 [get_ports clk]  ; <-- updated here
+set_property src_info {type:XDC file:1 line:6 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN M15 [get_ports rst]
+set_property src_info {type:XDC file:1 line:10 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN V22 [get_ports {count[0]}]
+set_property src_info {type:XDC file:1 line:13 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN W22 [get_ports {count[1]}]
+set_property src_info {type:XDC file:1 line:16 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN U19 [get_ports {count[2]}]
+set_property src_info {type:XDC file:1 line:19 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN U14 [get_ports {count[3]}]
