@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Tue May  6 13:50:02 2025
+# Process ID         : 17584
+# Current directory  : C:/Users/debar/Decoder/Decoder.runs/impl_1
+# Command line       : vivado.exe -log decod.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source decod.tcl -notrace
+# Log file           : C:/Users/debar/Decoder/Decoder.runs/impl_1/decod.vdi
+# Journal file       : C:/Users/debar/Decoder/Decoder.runs/impl_1\vivado.jou
+# Running On         : CRESTA
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+# CPU Frequency      : 2496 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 17002 MB
+# Swap memory        : 11274 MB
+# Total Virtual      : 28277 MB
+# Available Virtual  : 14905 MB
+#-----------------------------------------------------------
+source decod.tcl -notrace
